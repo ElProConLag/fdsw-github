@@ -1,21 +1,23 @@
 # Security Policy
 
-## Supported Versions
+## Supported Browsers
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Browser | Supported |
+| ------- | --------- |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/firefoxbrowser/black/white" /> Firefox Browser | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/googlechrome/black/white" /> Google Chrome | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/opera/black/white" /> Opera | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/operagx/black/white" /> Opera GX | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/microsoftedge/black/white" /> Microsoft Edge | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/safari/black/white" /> Safari | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/duckduckgo/black/white" /> DuckDuckGo Browser | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/vivaldi/black/white" /> Vivaldi | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/brave/black/white" /> Brave | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/torbrowser/black/white" /> Tor Browser | :white_check_mark: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/internetexplorer/black/white" /> Internet Explorer | :x: |
+| <img height="16" width="16" src="https://cdn.simpleicons.org/avast/black/white" /> Avast Secure Browser | :x: |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- <img height="16" width="16" src="https://cdn.simpleicons.org/gmail/black/white" /> camilo.pinto1@mail.udp.cl
